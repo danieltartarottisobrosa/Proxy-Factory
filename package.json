@@ -1,0 +1,16 @@
+{
+  "name": "proxy-factory",
+  "version": "1.0.5",
+  "description": "Creates a factory which redirects requests to another server",
+  "main": "proxy-factory.js",
+  "repository": "https://github.com/danieltartarottisobrosa/Proxy-Factory.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel T. Sobrosa (danieltsobrosa@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "~0.4.1",
+    "request": "~2.40.0"
+  }
+}
